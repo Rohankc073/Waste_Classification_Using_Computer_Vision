@@ -31,6 +31,10 @@ The system includes the following hardware components:
 - **1 x Buck Module (Step-Down) 5V**: Converts voltage for powering the components.
 - **1 x 12V Battery**: Power source for the system.
 
+- Here is the hardware structure of the waste classification system:
+
+![Hardware Structure](https://github.com/Rohankc073/EnviroBotics/blob/626cc65ad6f97d9a2bb7b16954958c9c18884ff6/Hardware.jpg)
+
 ### **Project Flow**
 1. Capture an image from a webcam.
 2. Apply zoom to the captured frame.
